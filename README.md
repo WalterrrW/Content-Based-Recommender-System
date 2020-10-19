@@ -1,7 +1,7 @@
 # Content-Based-Recommender-System
 
 Run the following script to start the script:
-<Content_Based_Recommender_System.py>
+```python Content_Based_Recommender_System.py```
 
 Simplified Program Flow:
 • A user chose a movie title from a wide variety of movie titles, he/she can also type keyword and my program will help him to find the desired movie in case she/he forgot the actual title. After selected a movie some computations will take place which will generate an order based on a specific formula. The user than will be able to see the results.
